@@ -14,7 +14,8 @@ Write a little template to:
 * show it using MarteEngine
 * ask info from it
 
-![graph](http://github.com/Gornova/GraphGameTemplate/img/6n-graf.svg.png) 
+An example graph:
+![graph](https://raw.githubusercontent.com/Gornova/GraphGameTemplate/master/img/6n-graf.svg.png) 
 
 ## Credits
 * [Slick2d](http://slick.cokeandcode.com/)
